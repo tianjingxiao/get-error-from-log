@@ -1,0 +1,3 @@
+#Opt	Id	Name	Type	IP	Offset	Binary
+-	0x01	fsbl1-boot	Binary	none	0x0	bin/tf-a-stm32mp157c-occuspace-mx-serialboot.stm32
+-	0x03	ssbl-boot	Binary	none	0x0	bin/u-boot-stm32mp157c-occuspace-mx-trusted.stm32
